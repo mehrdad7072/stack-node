@@ -1,0 +1,15 @@
+{
+  "name": "first-project",
+  "version": "1.0.0",
+  "description": "this is the first project in mft",
+  "main": "index.js",
+  "dependencies": {
+    "node": "^12.18.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mehrdad karimi",
+  "license": "ISC"
+}
